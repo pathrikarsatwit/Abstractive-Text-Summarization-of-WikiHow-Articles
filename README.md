@@ -1,5 +1,5 @@
 # Abstractive-Text-Summarization-of-WikiHow-Articles
-Test Summarization Using T5 Small Model
+
 1. NLP Final Project: Abstractive Text Summarization with T5-small
 
     1. This repository contains an end-to-end abstractive text summarization system built using a fine-tuned T5-small model. The model summarizes long passages into concise, coherent outputs and is trained on article–summary pairs. The final fine-tuned model is publicly available on the HuggingFace Hub under the name Sakshi-1234/NLPFinal, allowing users to run inference without retraining.
